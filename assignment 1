@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>MUHAMMAD USMAN ALI</title>
+    </head>
+
+    <body>
+        <h1>Food Paradise Restaurant</h1>
+        <p><i>Delicious Food, Happy Moment!</i></p>
+        <br/>
+        <img src="https://images.getbento.com/accounts/e395f21ff143e91a6e9215f73c3db02d/media/images/36119bazaar_meat_chi_shane_boyer_photography8_1.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5" alt="Restaurant image" height="400" width="500">
+    <hr/>
+        <h2>Welcome To Food Paradise</h2>
+        <p>Welcome To <b>Food Paradise</b>. We serve fresh and delicious food for everyone. Our goal is to provide quality food at affordable price.</p>
+    <hr/>
+        <h2>About Our Restaurant </h2>
+        <p>Food Paradice Was started in <b>2020</b>. Since then, we have been serving delicious food to our customer.<br/>
+    <br/> 
+        Our restaurant is famous for its <i> fresh ingredients </i> and <u>special recipes.</u>
+        <h3>Opening Hours</h3>
+        Monday - Friday: 12:00 PM - 11:00 PM<br/>
+        Saturday - Sunday: 1:00 PM - 12:00 AM
+        <h3>Location</h3>
+         Main Boulevard, Karachi, Pakistan
+    <hr/>
+        <h2>Our Menu</h2>
+        <h3>Fast Food</h3></p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEzQM6Tqihbt0HbXsdshPhRyrKiacXsrjftjYggNPRucEewrikH8GNCIE&s=10" alt=" fast food image" height="250" width="300">
+        <ul>
+            <li>Zinger Burger - Rs.450</li>
+            <li>Chicken Pizza - Rs.900</li>
+            <li>Chicken Sandwich - Rs.350</li>
+        </ul>
+        <h4>Pakistani Food</h4>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTH6vszYCDirSwSuvaUNO74Xi1mSMeB8q7LYQAMKcenVFtuFUHTIiCV6W&s=10" alt="Pakistani food" height="300" width="300">
+        <ul>
+            <li>Chicken Biryani - Rs.300</li>
+            <li>Chicken Karahi - Rs.1200</li>
+            <li>Nihari - Rs.400</li>
+        </ul>
+        <h3>Drinks</h3>
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/071/978/326/small/refreshing-cold-colorful-soft-drinks-with-ice-and-citrus-photo.jpg" alt="Drinks image" height="200" width="300">
+        <ul>
+            <li>Coke - Rs.100</li>
+            <li>Fresh Juice - Rs.250</li>
+            <li>Milkshake - Rs.300</li>
+        </ul>
+        <h3>Desserts</h3>
+        <img src="https://stordfkenticomedia.blob.core.windows.net/df-us/rms/media/recipesmedia/recipes/retail/x17/2003/feb/17244-caramel-topped-ice-cream-dessert-600x600.jpg?ext=.jpg" alt="Desserts image" height="300" width="300">
+        <ul>
+            <li>Ice Cream - Rs.200</li>
+            <li>Chocolate Cake - Rs.350</li>
+        </ul>
+    <hr/>
+        <h2>How We Prepare Your Order</h2>
+        <ol>
+            <li>Take Your Oder</li>
+            <li>Prepare Fresh Food</li>
+            <li>Pack Your Food</li>
+            <li>Deliver Your Order</li>
+        </ol>
+    <hr/> 
+        <h2>Contact Us</h2>
+        <br/>
+        <a href="Ali1245@gmail.com"><u>Email Us</u></a><br/>
+        <br/>
+        <a href="+921234567894"><u>Call Us</u></a><br/>
+        <br>
+        <a href="https://maps.google.com/" target="_blank"><u>Find Us On Google Maps</u> </a><br/>
+        <br/>
+        <a href="https://www.instagram.com/paradiserestaurantfsd/?hl=en" target="_blank"><u>Instagram</u></a><br/>
+        <br/>
+        <a href="https://www.facebook.com/paradiseLHR/" target="_blank"><u>Facebook</u></a>
+    <hr/>
+        <h2>Today's Special</h2>   
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3TPFuX1M3gyG2TRq75R3ik929uLme_l7Mpsp4NCSaS6ySvz2_JDESMrm_&s=10" alt="Special" height="300" width="400">
+    <br/>
+        <h3>Special Dish</h3>
+        Enjoy our delicious and unique dish made with our special recipe.<br/>
+        <br/>
+        <b>Price: Rs.500</b><br/>
+        <br/>
+        <a href="https://www.instagram.com/paradiserestaurantfsd/?hl=en target=_blank target=_blank">Order Now</a>
+    <hr/>
+        <b>Thanks you for visiting Food Paradise</b>           
+         </p>
+     </body>
+
+</html>
