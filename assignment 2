@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>PROJECT/2</title>
+    </head>
+
+    <body>
+        <H1>Welcome To My HTML Assignment</H1>
+        <p>This page demonstrates the use of tables, forms, images, and various HTML elements.</p>
+        <hr>
+        <h2 id="form">Contact Form</h2>
+        <form >
+            <input type="text" placeholder="Enter Your Name" required><br><br>
+            <input type="email" placeholder="Enter Your Email" required><br><br>
+            <input type="number" placeholder="Enter Your Number" required><br><br>
+            <input type="password" placeholder="Enter Your Password" required><br><br>
+            <input type="submit">
+        </form>
+        <hr>
+        <h2>Student Marks Table</h2>
+        <p>Below is a table showing the students along with their marks and profile pictures.</p>
+        <table border="2">
+            <tr>
+                <th>Profile Picture</th>
+                <th>Name</th>
+                <th>Math</th>
+                <th>Science</th>
+            </tr>
+            <tr>
+                <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0RtmCHZ4lK9qAavrbYdDzMQfO-8P_HEvTVPb2mkot_vw2WtZFxsOh6g&s=10"
+                        alt="profile pictures" height="40" width="40"></td>
+                <td>John</td>
+                <td>85</td>
+                <td>94</td>
+            </tr>
+            <tr>
+                <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0RtmCHZ4lK9qAavrbYdDzMQfO-8P_HEvTVPb2mkot_vw2WtZFxsOh6g&s=10"
+                        alt="profile pictures" height="40" width="40"></td>
+                <td>Emma</td>
+                <td>78</td>
+                <td>88</td>
+            </tr>
+            <tr>
+                <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0RtmCHZ4lK9qAavrbYdDzMQfO-8P_HEvTVPb2mkot_vw2WtZFxsOh6g&s=10"
+                        alt="Profile pictures" height="40" width="40"></td>
+                <td>Michael</td>
+                <td>90</td>
+                <td>96</td>
+            </tr>
+        </table>
+        <h2>Anhor Links</h2>
+        <p>Use the following links navigate</p>
+        <a href="#form">Jump To contact Form</a><br>
+        <a href="https://www.google.com/" target="_blank">Go To Google</a>
+        <hr>
+        <h2>Subscript and Superscript</h2>
+        <p>Chemical formulas often use subscript, such as H<sub>2</sub>O for water. In physics, the equation E =
+            mc<sup>2</sup> is a famous example using superscript.</p>
+        <hr>
+        <h2>Lists</h2>
+        <h3>Ordered List - Favorite Fruits</h3>
+        <ol>
+            <li>Apple</li>
+            <li>Banana</li>
+            <li>Cherry</li>
+        </ol>
+        <h3>Unordered List - Hobbies</h3>
+        <ul>
+            <li>Reading</li>
+            <li>Cycling</li>
+            <li>Photography</li>
+        </ul>
+        <hr>
+        <h2>Image Showcase</h2>
+        <p>Here are some sample images:</p>
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/041/426/380/small/ai-generated-a-bunch-of-coconuts-is-seen-flying-through-the-air-as-if-they-are-exploding-showcasing-dynamic-motion-and-force-photo.jpg"
+            alt="coconut" height="200" width="250">
+        <br><br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLRzvGc4i9_8EKBk_CUho5gHDlWT_ZxDhb4hRLNu8BA&s=10"
+            alt="Leave" height="200" width="250">
+
+
+
+    </body>
+
+</html>
